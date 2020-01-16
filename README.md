@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/hyperledger/fabric) 
+
 # Hyperledger Fabric [![join the chat][rocketchat-image]][rocketchat-url]
 
 [rocketchat-url]: https://chat.hyperledger.org/channel/fabric
